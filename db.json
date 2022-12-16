@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Daisy",
+      "url": "./images/aloe.jpg",
+      "price": "25",
+      "id": 8
+    },
+    {
+      "name": "Daisy",
+      "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/marguerite-daisy-types-1586981163.jpg",
+      "price": "25",
+      "id": 9
+    },
+    {
+      "name": "Daisy",
+      "image": "https://static.wikia.nocookie.net/muppet/images/5/5a/Elmo-elmo-elmo.jpg/revision/latest?cb=20110917000614",
+      "price": "24",
+      "id": 10
+    },
+    {
+      "name": "Daisy",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/marguerite-daisy-types-1586981163.jpg",
+      "price": "24",
+      "id": 11
     }
   ]
 }
